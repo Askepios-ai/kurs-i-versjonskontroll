@@ -1,5 +1,9 @@
 Dette er en tekstfil
 
+<<<<<<< HEAD
 Denne linja kan jeg endre,oey
+=======
+Denne linjen er endret av jon
+>>>>>>> d63ebbfc15712154232350480b9d242f5df899e6
 
 Hilsen Jon
